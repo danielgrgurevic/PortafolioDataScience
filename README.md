@@ -12,7 +12,11 @@ Se desarrolló un modelo de pronóstico para prever las ventas de la tienda dura
 
 Link notebook de trabajo: https://colab.research.google.com/drive/1hWBUWrFcAR-p_hI9d6XI0t4l0BtK-2pW?usp=sharing
 
-3- Segmentación de clientes 
+3- Reporte de Ventas con Power Bi y SQL
+
+En primer lugar se importó archivos CSV a una base de datos local PostgreSQL, para luego procesar esos archivos y unificarlos en una tabla que representa las ventas de productos electrónicos de un año completo, luego se conectó Postgres a Power Bi para realizar un reporte.
+
+4- Segmentación de clientes 
 
 Este proyecto se centró en la segmentación de clientes bancarios utilizando el algoritmo K-means. Se realizó preprocesamiento de datos para tratar valores faltantes y codificar variables categóricas. Se aplicó la codificación ordinal para transformar categorías en valores numéricos. La visualización de datos incluyó gráficos de dispersión y distribuciones. Se empleó el mapeo de variables para comprender mejor las categorías laborales, estado civil, nivel educativo, propiedad de vivienda y préstamos en cada cluster.
 
