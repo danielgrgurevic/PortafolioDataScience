@@ -28,8 +28,7 @@ En primer lugar se importó archivos CSV a una base de datos local PostgreSQL, p
 
 4- Segmentación de clientes 
 
-Este proyecto se centró en la segmentación de clientes bancarios utilizando el algoritmo K-means. Se realizó preprocesamiento de datos para tratar valores faltantes y codificar variables categóricas. Se aplicó la codificación ordinal para transformar categorías en valores numéricos. La visualización de datos incluyó gráficos de dispersión y distribuciones. Se empleó el mapeo de variables para comprender mejor las categorías laborales, estado civil, nivel educativo, propiedad de vivienda y préstamos en cada cluster.
-
+Este proyecto se centró en la segmentación de clientes bancarios utilizando el algoritmo K-means. Se realizó preprocesamiento de datos para tratar valores faltantes y codificar variables categóricas. Se aplicó la codificación ordinal para transformar categorías en valores numéricos. La visualización de datos incluyó gráficos de dispersión y distribuciones. Se empleó el mapeo de variables para comprender mejor las categorías laborales, estado civil, nivel educativo, propiedad de vivienda y préstamos en cada cluster. Se modeló con el  algoritmo K-means con 4 clústers, además se validó con el metodo puntajes de silueta.
 Link notebook de trabajo: https://colab.research.google.com/drive/1MfyxJ6rIkwQsID5-LO6mSH8VxDQYRMJp?usp=sharing
 
 ![image](https://github.com/danielgrgurevic/PortafolioDataScience/assets/127439786/76e63e36-27f4-40ca-94cf-42f4eaa9c7c7)
