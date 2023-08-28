@@ -1,0 +1,20 @@
+SET datestyle TO MDY;
+
+CREATE TABLE sales_april_2019 (
+"Order ID" varchar(100),
+"Product" VARCHAR(100),
+"Quantity Ordered" VARCHAR(100),
+"Price Each" VARCHAR(100),
+"Order Date" VARCHAR(100),
+"Purchase Address" VARCHAR(100)
+);
+
+select
+*
+from 
+sales_april_2019;
+
+COPY public.sales_april_2019 ("Order ID", "Product", "Quantity Ordered", "Price Each", "Order Date", "Purchase Address")
+FROM 'C:\sales\Sales_April_2019.csv'
+DELIMITER ','
+CSV HEADER;
