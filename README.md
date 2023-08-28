@@ -5,7 +5,7 @@
 Aplicación de predicción de fuga de clientes 📈 Utilizando datos de Kaggle y un modelo de Random Forest, la app alojada en Google Cloud brinda predicciones precisas. Ayuda a las empresas a retener clientes, optimizar marketing y aumentar la rentabilidad 💼📊
 
 Link de la aplicación: https://default-20230811t225053-zhfi2yrbia-uc.a.run.app/
-![image](https://github.com/danielgrgurevic/PortafolioDataScience/assets/127439786/63fa19ce-05a4-4d7b-ac34-abf7927b5aee)
+![image](https://github.com/danielgrgurevic/PortafolioDataScience/assets/127439786/93fd73b5-20ca-4710-b8d0-fd65ff2e64aa)
 
 2- Sales Forecast 
 
