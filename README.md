@@ -20,6 +20,10 @@ Link notebook de trabajo: https://colab.research.google.com/drive/1hWBUWrFcAR-p_
 
 En primer lugar se importó archivos CSV a una base de datos local PostgreSQL, para luego procesar esos archivos y unificarlos en una tabla que representa las ventas de productos electrónicos de un año completo, luego se conectó Postgres a Power Bi para realizar un reporte.
 
+![image](https://github.com/danielgrgurevic/PortafolioDataScience/assets/127439786/593f1850-a5ce-46c4-9c8d-c0a0f44add08)
+
+![image](https://github.com/danielgrgurevic/PortafolioDataScience/assets/127439786/61587a83-9fbe-41f9-a5b9-d8b28c4283b3)
+
 4- Segmentación de clientes 
 
 Este proyecto se centró en la segmentación de clientes bancarios utilizando el algoritmo K-means. Se realizó preprocesamiento de datos para tratar valores faltantes y codificar variables categóricas. Se aplicó la codificación ordinal para transformar categorías en valores numéricos. La visualización de datos incluyó gráficos de dispersión y distribuciones. Se empleó el mapeo de variables para comprender mejor las categorías laborales, estado civil, nivel educativo, propiedad de vivienda y préstamos en cada cluster.
