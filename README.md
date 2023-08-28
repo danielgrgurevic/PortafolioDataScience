@@ -22,6 +22,9 @@ En primer lugar se importó archivos CSV a una base de datos local PostgreSQL, p
 
 ![image](https://github.com/danielgrgurevic/PortafolioDataScience/assets/127439786/a7310c57-90cf-4541-a764-043cb850662b)
 
+![image](https://github.com/danielgrgurevic/PortafolioDataScience/assets/127439786/17568b16-f98a-4695-a46e-a18ca2b1e547)
+
+
 
 4- Segmentación de clientes 
 
